@@ -13,6 +13,7 @@
     <sprite>sprites\spr_goal</sprite>
     <sprite>sprites\spr_hill</sprite>
     <sprite>sprites\spr_floor</sprite>
+    <sprite>sprites\spr_plug_1</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -25,6 +26,7 @@
     <object>objects\obj_goal</object>
     <object>objects\obj_score_controller</object>
     <object>objects\obj_hill</object>
+    <object>objects\obj_plug1</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\poc_room</room>
