@@ -376,7 +376,7 @@
     <instance objName="obj_spikes" x="560" y="704" name="inst_DB237498" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_spikes" x="624" y="704" name="inst_3C3EA38B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_spikes" x="496" y="704" name="inst_259AE998" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_outlet_floor" x="112" y="48" name="inst_3D1A2552" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_outlet_floor" x="112" y="48" name="inst_65715BC0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="" x="0" y="480" w="16" h="16" xo="0" yo="0" id="10000001" name="inst_A71E7CF4" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
