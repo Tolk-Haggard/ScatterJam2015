@@ -11,16 +11,20 @@
     <sprite>sprites\spr_tall_wall</sprite>
     <sprite>sprites\spr_outlet</sprite>
     <sprite>sprites\spr_goal</sprite>
+    <sprite>sprites\spr_hill</sprite>
+    <sprite>sprites\spr_floor</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_monkey</object>
     <object>objects\obj_wall</object>
+    <object>objects\obj_floor</object>
     <object>objects\obj_tall_wall</object>
     <object>objects\obj_outlet</object>
     <object>objects\obj_goal</object>
     <object>objects\obj_score_controller</object>
+    <object>objects\obj_hill</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\poc_room</room>
