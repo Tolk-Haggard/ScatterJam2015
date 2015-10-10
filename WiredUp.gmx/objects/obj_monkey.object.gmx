@@ -86,6 +86,13 @@
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
         <functionname>action_set_gravity</functionname>
+        <id>541</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_sprite_set</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -124,6 +131,16 @@
           <argument>
             <kind>0</kind>
             <string>10</string>
+            <kind>5</kind>
+            <sprite>spr_monkey</sprite>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>0</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>.2</string>
           </argument>
         </arguments>
       </action>
