@@ -90,7 +90,7 @@
     <instance objName="obj_wall" x="448" y="752" name="inst_BC6A15F9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall" x="432" y="752" name="inst_912D0048" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall" x="464" y="752" name="inst_FC7CF06D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_monkey" x="158" y="736" name="inst_7D3EED81" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_monkey" x="192" y="656" name="inst_7D3EED81" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall" x="0" y="208" name="inst_7A82D9D1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall" x="0" y="224" name="inst_2E933FF1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall" x="0" y="240" name="inst_5F43B58B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -381,8 +381,8 @@
     <instance objName="obj_outlet" x="224" y="48" name="inst_DAE8518B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_goal" x="944" y="688" name="inst_B75A99E7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_score_controller" x="16" y="16" name="inst_31B5700B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_monkey" x="80" y="736" name="inst_02DF4030" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_monkey" x="240" y="736" name="inst_C3120DD7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_monkey" x="80" y="656" name="inst_02DF4030" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_monkey" x="288" y="656" name="inst_C3120DD7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="" x="0" y="480" w="16" h="16" xo="0" yo="0" id="10000001" name="inst_A71E7CF4" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
