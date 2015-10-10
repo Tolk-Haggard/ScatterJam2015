@@ -79,13 +79,6 @@
       </action>
       <action>
         <libid>1</libid>
-        <id>107</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_set_gravity</functionname>
         <id>541</id>
         <kind>0</kind>
         <userelative>0</userelative>
@@ -99,12 +92,16 @@
         <isnot>0</isnot>
         <arguments>
           <argument>
-            <kind>0</kind>
-            <string>-90</string>
+            <kind>5</kind>
+            <sprite>spr_monkey</sprite>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>.5</string>
+            <string>0</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>.2</string>
           </argument>
         </arguments>
       </action>
@@ -130,17 +127,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>10</string>
-            <kind>5</kind>
-            <sprite>spr_monkey</sprite>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>0</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>.2</string>
+            <string>spr_monkey</string>
           </argument>
         </arguments>
       </action>
