@@ -25,15 +25,15 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>200</string>
+            <string>800</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>100</string>
+            <string>32</string>
           </argument>
           <argument>
             <kind>1</kind>
-            <string>Score: </string>
+            <string>Monkeys Saved: </string>
           </argument>
         </arguments>
       </action>

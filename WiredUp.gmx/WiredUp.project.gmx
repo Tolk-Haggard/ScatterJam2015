@@ -14,6 +14,8 @@
     <sprite>sprites\spr_hill</sprite>
     <sprite>sprites\spr_floor</sprite>
     <sprite>sprites\spr_plug_1</sprite>
+    <sprite>sprites\spr_spikes</sprite>
+    <sprite>sprites\sprite9</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -21,15 +23,20 @@
     <object>objects\obj_monkey</object>
     <object>objects\obj_wall</object>
     <object>objects\obj_floor</object>
-    <object>objects\obj_tall_wall</object>
-    <object>objects\obj_outlet</object>
     <object>objects\obj_goal</object>
     <object>objects\obj_score_controller</object>
     <object>objects\obj_hill</object>
-    <object>objects\obj_plug1</object>
+    <objects name="room_1">
+      <object>objects\obj_outlet_wall</object>
+      <object>objects\obj_outlet_floor</object>
+      <object>objects\obj_plug1</object>
+      <object>objects\obj_tall_wall</object>
+      <object>objects\obj_removable_floor</object>
+    </objects>
+    <object>objects\obj_spikes</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\poc_room</room>
+    <room>rooms\lvl_1</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

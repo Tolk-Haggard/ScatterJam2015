@@ -26,11 +26,11 @@
           <argument>
             <kind>1</kind>
             <string>if place_meeting(x,y,obj_plug1) {
-  with(obj_tall_wall) {
+  instance_create(544, 640, obj_removable_floor)
+} else {
+    with(obj_removable_floor) {
     instance_destroy()
   }
-} else {
-  instance_create(352, 688, obj_tall_wall)
 }
 
 </string>
