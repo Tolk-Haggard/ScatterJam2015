@@ -24,7 +24,10 @@
     <sprite>sprites\spr_long_removable_floor</sprite>
     <sprite>sprites\spr_tall_wall2</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\background1</background>
+    <background>background\background2</background>
+  </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_plug1</object>
