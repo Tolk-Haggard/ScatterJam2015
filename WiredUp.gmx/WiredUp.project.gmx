@@ -6,6 +6,7 @@
   <NewExtensions/>
   <sounds name="sound">
     <sound>sound\snd_shock</sound>
+    <sound>sound\snd_background</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_monkey</sprite>
