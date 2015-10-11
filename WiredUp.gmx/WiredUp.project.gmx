@@ -44,18 +44,10 @@
     <object>objects\obj_long_removable_floor2</object>
     <object>objects\obj_long_removable_floor3</object>
     <object>objects\obj_hill</object>
+    <object>objects\obj_spikes</object>
     <objects name="lvl_1">
       <object>objects\obj_outlet_wall</object>
       <object>objects\obj_outlet_floor</object>
-    </objects>
-    <object>objects\obj_spikes</object>
-    <objects name="closing_credits">
-      <object>objects\obj_game_over</object>
-      <object>objects\obj_restart</object>
-    </objects>
-    <objects name="opening_screen">
-      <object>objects\obj_opening</object>
-      <object>objects\obj_start_button</object>
     </objects>
     <objects name="lvl_2">
       <object>objects\obj_outlet_lvl2_wall1</object>
@@ -63,6 +55,14 @@
       <object>objects\obj_outlet_lvl2_long_floor1</object>
       <object>objects\obj_outlet_lvl2_long_floor2</object>
       <object>objects\obj_outlet_lvl2_long_floor3</object>
+    </objects>
+    <objects name="closing_credits">
+      <object>objects\obj_game_over</object>
+      <object>objects\obj_restart</object>
+    </objects>
+    <objects name="opening_screen">
+      <object>objects\obj_opening</object>
+      <object>objects\obj_start_button</object>
     </objects>
   </objects>
   <rooms name="rooms">
