@@ -21,23 +21,29 @@
     <sprite>sprites\spr_start_button</sprite>
     <sprite>sprites\spr_temp_dead_monkey</sprite>
     <sprite>sprites\spr_restart</sprite>
+    <sprite>sprites\spr_long_removable_floor</sprite>
+    <sprite>sprites\spr_tall_wall2</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
+    <object>objects\obj_plug1</object>
     <object>objects\obj_monkey</object>
     <object>objects\obj_dead_monkey</object>
     <object>objects\obj_wall</object>
     <object>objects\obj_floor</object>
     <object>objects\obj_goal</object>
     <object>objects\obj_score_controller</object>
+    <object>objects\obj_tall_wall1</object>
+    <object>objects\obj_tall_wall2</object>
+    <object>objects\obj_removable_floor</object>
+    <object>objects\obj_long_removable_floor1</object>
+    <object>objects\obj_long_removable_floor2</object>
+    <object>objects\obj_long_removable_floor3</object>
     <object>objects\obj_hill</object>
     <objects name="lvl_1">
       <object>objects\obj_outlet_wall</object>
       <object>objects\obj_outlet_floor</object>
-      <object>objects\obj_plug1</object>
-      <object>objects\obj_tall_wall</object>
-      <object>objects\obj_removable_floor</object>
     </objects>
     <object>objects\obj_spikes</object>
     <objects name="closing_credits">
@@ -48,10 +54,18 @@
       <object>objects\obj_opening</object>
       <object>objects\obj_start_button</object>
     </objects>
+    <objects name="lvl_2">
+      <object>objects\obj_outlet_lvl2_wall1</object>
+      <object>objects\obj_outlet_lvl2_wall2</object>
+      <object>objects\obj_outlet_lvl2_long_floor1</object>
+      <object>objects\obj_outlet_lvl2_long_floor2</object>
+      <object>objects\obj_outlet_lvl2_long_floor3</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\opening_screen</room>
     <room>rooms\lvl_1</room>
+    <room>rooms\lvl_2</room>
     <room>rooms\closing_credits</room>
   </rooms>
   <help>
