@@ -131,11 +131,11 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>mouse_x - 16</string>
+            <string>mouse_x - 40</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>mouse_y - 16</string>
+            <string>mouse_y - 64</string>
           </argument>
         </arguments>
       </action>
