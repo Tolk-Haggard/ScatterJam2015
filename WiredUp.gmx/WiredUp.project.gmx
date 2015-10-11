@@ -20,6 +20,7 @@
     <sprite>sprites\spr_opening</sprite>
     <sprite>sprites\spr_start_button</sprite>
     <sprite>sprites\spr_temp_dead_monkey</sprite>
+    <sprite>sprites\spr_restart</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -41,6 +42,7 @@
     <object>objects\obj_spikes</object>
     <objects name="closing_credits">
       <object>objects\obj_game_over</object>
+      <object>objects\obj_restart</object>
     </objects>
     <objects name="opening_screen">
       <object>objects\obj_opening</object>
