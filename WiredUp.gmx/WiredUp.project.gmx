@@ -19,11 +19,13 @@
     <sprite>sprites\spr_game_over</sprite>
     <sprite>sprites\spr_opening</sprite>
     <sprite>sprites\spr_start_button</sprite>
+    <sprite>sprites\spr_temp_dead_monkey</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_monkey</object>
+    <object>objects\obj_dead_monkey</object>
     <object>objects\obj_wall</object>
     <object>objects\obj_floor</object>
     <object>objects\obj_goal</object>
